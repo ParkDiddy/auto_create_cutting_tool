@@ -63,6 +63,3 @@ while rownum <= maxrownum ;iterate on all rows from rownum to maxrownum
 
 MsgBox "Complete!"
 ExitApp
-
-;Workbook.Close()
-;Excel.Quit()
